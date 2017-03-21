@@ -1,0 +1,8 @@
+coverCriteria:90
+generateCount:42
+time:323660ms
+crossoverRate:0.03
+varitionRate:0.02
+allCollision:70
+mineAreaUnit:5
+
